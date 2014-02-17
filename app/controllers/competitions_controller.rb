@@ -1,5 +1,5 @@
 class CompetitionsController < ApplicationController
   def new
-   # @competition = Competition.new
+    @competition = Competition.new
   end
 end
